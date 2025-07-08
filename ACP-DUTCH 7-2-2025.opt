@@ -38,7 +38,7 @@
     <template_id>
         <value>ACP-DUTCH-V32</value>
     </template_id>
-    <concept>ACP-DUTCH</concept>
+    <concept>ACP-DUTCH-v32</concept>
     <definition>
         <rm_type_name>COMPOSITION</rm_type_name>
         <occurrences>
@@ -23670,7 +23670,7 @@ Coding the intent of care with an external terminology is preferred, where possi
             <value>openEHR-EHR-COMPOSITION.care_plan.v0</value>
         </archetype_id>
         <template_id>
-            <value>ACP-DUTCH</value>
+            <value>ACP-DUTCH-v32</value>
         </template_id>
         <term_definitions code="at0000">
             <items id="text">Individueel zorgplan palliatieve zorg</items>
